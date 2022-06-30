@@ -2,15 +2,15 @@
 
 *This is kind of cool*
 
-`Inline code`
+`you can insert line code here`
 
 # Wow 
 ## This should work now
 
 ```
-# code block
-print '3 backticks or'
-print 'indent 4 spaces'
+# this is not so bad
+pretty cool'
+this is fun'
 ```
 
 **Hello Aisha!**
