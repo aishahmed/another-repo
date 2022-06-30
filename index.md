@@ -9,8 +9,8 @@
 
 ```
 # this is not so bad
-pretty cool'
-this is fun'
+'pretty cool'
+'this is fun'
 ```
 
 **Hello Aisha!**
