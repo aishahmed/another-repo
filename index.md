@@ -10,6 +10,7 @@
 - taking a lab quiz
 - creating repositories 
 - creating files with markdown formatting
+- downloaded GitHub Desktop
 
 
 **Hello Aisha!**
