@@ -6,7 +6,7 @@
 
 
 
-# We worked on a few things today including:
+## We worked on a few things today including:
 - taking a lab quiz
 - creating repositories 
 - creating files with markdown formatting
@@ -14,7 +14,7 @@
 
 **Hello Aisha!**
 
-[Basic Markdown Formatting](https://commonmark.org/help/)
+[Cheat Sheet - Basic Markdown Formatting](https://commonmark.org/help/)
 
-![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/UC_San_Diego_Geisel_Library.jpg/248px-UC_San_Diego_Geisel_Library.jpg)
+![Cool pic of Geisle](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/UC_San_Diego_Geisel_Library.jpg/248px-UC_San_Diego_Geisel_Library.jpg)
 
