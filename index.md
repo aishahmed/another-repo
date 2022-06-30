@@ -1,6 +1,6 @@
 # This is my first public-facing website with basic formatting!
 
-## CSE 15L Lab 2l
+## CSE 15L Lab 2
 
 `We worked on creating a few repositories`
 
