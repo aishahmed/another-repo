@@ -5,12 +5,12 @@
 `We worked on creating a few repositories`
 
 
-```
+
 # We worked on a few things today including:
-* taking a lab quiz
-* creating repositories 
-* creating files with markdown formatting
-```
+- taking a lab quiz
+- creating repositories 
+- creating files with markdown formatting
+
 
 **Hello Aisha!**
 
